@@ -13,7 +13,7 @@ $ g++ -std=c++23 (ls Client/*.cpp) Include/json.hpp  -o out/run
 $ ./out/run
 ```
 ##How to set up chatbot Ollama HPP:  
-**1️Step 1: Set up Ollama server**
+**Step 1: Set up Ollama server**
 - Navigate to the 'Server/ ' in this repo and download the Ollama_Server_Setup.ipynb file.
 - Go to Kaggle.
 - Click "New Notebook" -> Select File -> Import Notebook -> Upload the .ipynb file you just downloaded.
